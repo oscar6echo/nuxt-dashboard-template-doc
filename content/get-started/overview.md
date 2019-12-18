@@ -1,6 +1,6 @@
 # Overview
 
-As a preamble you may read the introductory [Dashboarding with Nuxt](TBD) medium article.
+As a preamble you may read the introductory [Dashboarding with Nuxt/vue](https://medium.com/@olivier.borderies/dashboarding-with-nuxt-vue-5b3bb0fc048e) medium article.
 
 ## Motivation
 
