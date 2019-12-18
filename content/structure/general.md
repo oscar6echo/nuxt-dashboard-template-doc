@@ -222,7 +222,7 @@ See the [Config section](../workflow/config) for more info.
 
 ## package.json
 
-The file [package.json](TBD) is the [npm config file](https://docs.npmjs.com/creating-a-package-json-file) for the [nuxt-dashboard-template](https://github.com/oscar6echo/nuxt-dashboard-template) package.  
+The file [package.json](https://github.com/oscar6echo/nuxt-dashboard-template/blob/master/package.json) is the [npm config file](https://docs.npmjs.com/creating-a-package-json-file) for the [nuxt-dashboard-template](https://github.com/oscar6echo/nuxt-dashboard-template) package.  
 
 
 Essentially it contains the dependencies of this package, and those for its development, and a number of convenience scripts:

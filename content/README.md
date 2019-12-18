@@ -2,11 +2,11 @@
 home: true
 heroImage: "/vuejs-nuxt.png"
 heroText: "Dashboarding with Nuxt"
-description: "Starter Kit for Non Professional Web Devs"
+description: "Starter Kit for Non-Specialists"
 actionText: Get Started →
 actionLink: /get-started/start
 features:
-  - title: Opiniated
+  - title: Opinionated
     details: Layout based on 2 layers of tabs (vertical and horizontal), a header and a footer. App state stored in url. A convenient guide for non-specialists.
   - title: Flexible
     details: Light framework built upon Nuxt and Vue. Fully flexible and extensible. Contains many example components. A starter kit for advanced users.
@@ -18,7 +18,7 @@ pageClass: custom-home-page
 
 ## Quick Start
 
-See the demo at [https://oscar6echo.github.io/nuxt-dashboard-template-doc](https://oscar6echo.github.io/nuxt-dashboard-template-doc)
+See the demo at [https://oscar6echo.github.io/nuxt-dashboard-template](https://oscar6echo.github.io/nuxt-dashboard-template)
 
 Or run locally:
 

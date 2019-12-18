@@ -5,7 +5,7 @@ To build a dashboard from the [nuxt-dashboard-template](https://github.com/oscar
 ## yarn
 
 [yarn](https://yarnpkg.com/en/) is a package manager for Javascript.  
-It allows to download, install and use the Javascript [npm packages](https://www.npmjs.com/) listed in the [package.json](https://github.com/oscar6echo/nuxt-dashboard-template/blob/master/package.json) at the root of the [nuxt-dashboard-template](TBD) repo - and their own dependencies.  
+It allows to download, install and use the Javascript [npm packages](https://www.npmjs.com/) listed in the [package.json](https://github.com/oscar6echo/nuxt-dashboard-template/blob/master/package.json) at the root of the [nuxt-dashboard-template](https://github.com/oscar6echo/nuxt-dashboard-template) repo - and their own dependencies.  
 It is the standard tool for modern web development, compatible with [npm](https://www.npmjs.com/package/npm) but faster, more secure, more reliable.
 
 Cf. the [official yarn install instructions](https://yarnpkg.com/en/docs/install#mac-stable).
