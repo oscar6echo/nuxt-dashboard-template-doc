@@ -3,7 +3,7 @@ module.exports = {
   title: "Dashboarding with Nuxt",
   description: "Helper for Non Professional Web Devs",
   head: [["link", { rel: "icon", href: "/favicon-nuxt.png" }]],
-  dest: "../_dist",
+  dest: "./_dist",
   plugins: [
     "@vuepress/active-header-links",
     "@vuepress/back-to-top",
