@@ -1,0 +1,17 @@
+{
+  "author": "oscar6echo",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.2.0",
+    "@vuepress/plugin-back-to-top": "^1.2.0",
+    "@vuepress/plugin-medium-zoom": "^1.2.0",
+    "@vuepress/plugin-nprogress": "^1.2.0",
+    "push-dir": "^0.4.1",
+    "vuepress": "^1.2.0"
+  },
+  "scripts": {
+    "doc:dev": "vuepress dev content",
+    "doc:build": "vuepress build content",
+    "doc:deploy": "push-dir --dir=_build --branch=gh-pages --remote=origin --allow-unclean --verbose"
+  }
+}
