@@ -1,6 +1,8 @@
 # Overview
 
-# Motivation
+As a preamble you may read the introductory [Dashboarding with Nuxt](TBD) medium article.
+
+## Motivation
 
 The [nuxt-dashboard-template](https://github.com/oscar6echo/nuxt-dashboard-template) github repo contains is [Nuxt](https://nuxtjs.org/)-based sample [single page application](https://en.wikipedia.org/wiki/Single-page_application) (SPA) meant to ease the building of dashboards by engineers who, like me, are not non professional web developers.
 
